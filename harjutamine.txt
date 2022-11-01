@@ -1,3 +1,7 @@
 GitHub on veebimajutusplatvorm versioonihalduseks ja ühistööks.
 Loob võimalused töötada projektiga sõltumata asukohast.
 Seda kasutavad it alal töötavad inimesed ja õpilased.
+Saan githubi edasi kasutada skriptimise tunnis ja kunagi äkki kuskil töökohas.
+Github tuli välja aprilis 2008.
+Githubi asutajad Tom Preston Werner, Scott Chacon, Chris Wanstrath, P. J. Hyett.
+Githubi teenus oli kättesaadaval 2008 aastal.
